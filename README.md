@@ -35,13 +35,6 @@ atualmente aprendendo:
 
 ---
 
-# github stats
-
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=dark"/>
-</p>
-
----
 
 # contato
 
