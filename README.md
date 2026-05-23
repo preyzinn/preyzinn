@@ -18,6 +18,9 @@ atualmente aprendendo:
 🐍 python
 ⚡ c
 🔧 git
+* LoraWan
+* Node-red
+* Grafana
 ```
 
 ---
@@ -27,10 +30,7 @@ atualmente aprendendo:
 * app de clima em python
 * api com flask
 * projetos de eletrônica
-* analise de dados
-* LoraWan
-* Node-red
-* Grafana
+
 
 ---
 
