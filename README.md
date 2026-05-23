@@ -17,7 +17,6 @@ atualmente aprendendo:
 💻 vscode/pycharm/IntelliJ
 🐍 python
 ⚡ c
-🌐 html/css
 🔧 git
 ```
 
