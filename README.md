@@ -1,6 +1,6 @@
 # eae, eu sou o ian
 
-sou estudante e curto mexer com programação, hardware e umas coisas aleatórias que aparecem pelo caminho.
+sou estudante de engenharia e curto hardware e umas coisas aleatórias que aparecem pelo caminho.
 
 atualmente aprendendo:
 
