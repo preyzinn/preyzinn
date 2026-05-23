@@ -14,7 +14,7 @@ atualmente aprendendo:
 # coisas que eu uso
 
 ```txt
-💻 vscode/pycharm/InteliJ
+💻 vscode/pycharm/IntelliJ
 🐍 python
 ⚡ c
 🌐 html/css
