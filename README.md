@@ -1,4 +1,4 @@
-# eae, eu sou [seu nome]
+# eae, eu sou o ian
 
 sou estudante e curto mexer com programação, hardware e umas coisas aleatórias que aparecem pelo caminho.
 
