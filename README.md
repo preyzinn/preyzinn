@@ -1,37 +1,19 @@
-# eae, eu sou o ian
-
-sou estudante de engenharia e curto hardware e umas coisas aleatórias que aparecem pelo caminho.
+# computer engineer student
 
 atualmente aprendendo:
 
 * python
-* flask
-* eletrônica
-* um pouco de frontend
-
----
-
-# coisas que eu uso
-
-```txt
-💻 vscode/pycharm/IntelliJ
-🐍 python
-⚡ c
-🔧 git
-* LoraWan
-* Node-red
-* Grafana
-```
+* flask/fastapi
+* eletrônica basica
+* Sistemas Embarcados
 
 ---
 
 # alguns projetos
 
 * app de clima em python
-* api com flask
-* projetos de eletrônica
-
-
+* Fonte de Tensão
+* Edge AI demo using llama3
 ---
 
 
