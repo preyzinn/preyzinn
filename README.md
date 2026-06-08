@@ -10,14 +10,5 @@ atualmente aprendendo:
 
 ---
 
-# alguns projetos
-
-* app de clima em python
-* Fonte de Tensão
-* Edge AI demo using llama3
----
-
-
 # contato
-
 discord: preyzin
