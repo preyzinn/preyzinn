@@ -11,4 +11,4 @@ atualmente aprendendo:
 ---
 
 # contato
-discord: preyzin
+ian.buildss@gmail.com
