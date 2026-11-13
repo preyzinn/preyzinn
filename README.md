@@ -1,3 +1,2 @@
 # computer engineer student
-# contato
-**ian.buildss@gmail.com**
+contato: **ian.buildss@gmail.com**
